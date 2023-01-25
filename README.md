@@ -13,25 +13,27 @@
  of who we are varies throughout the day.
 		
 # **Assets Required**
-|Needs| Solutions|
+|Needs| Source|
 |:-----|:---------|
-|Alarm Sound| Stock Audio|
-|Toilet Flush|Stock Audio
-|Shower Curtain Opening| Record Myself
-|Shower Running| Record Myself
-|Sounds of Getting Dressed| Stock Audio/Record Myself
-|Walking Downstairs| Stock Audio/Record Myself
-|Door Opening| Stock Audio
-|Street Noises| Stock Audio/Record Myself
-|Music| Stock Audio
-|Car Horn| Stock Audio
+|Alarm Sound|https://freesound.org/s/151242/|
+|Getting Out of Bed|https://freesound.org/s/172365/
+|Shower Curtain Opening| https://freesound.org/s/202013/
+|Shower Running| https://freesound.org/s/444169/
+|Sounds of Getting Dressed| https://freesound.org/s/328132/
+|Walking Downstairs| https://freesound.org/s/209474/
+|Door Opening| https://freesound.org/s/344360/
+|Street Noises| https://freesound.org/s/395836/
+|People on the Steet| https://freesound.org/s/119895/
+|Music| https://freemusicarchive.org/music/Snake_Oil_Salesmen/Snake_Oil_Salesmen/Snake_Oil_Salesmen_-_Snake_Oil_Salesmen_-_02_Grains_of_Salt/
+|Car Horn| https://freesound.org/s/385283/
 |Person Shouting| Record Myself
 |Entering Building| Stock Audio/Record Myself
 |Chatter of people prior to lecture| Record Myself
 |Deep Breath| Stock Audio
 |Movement of Papers, Pens, Typing| Stock Audio
 |Getting in car and driving| Record Myself
-|Grocery store sounds| Record Myself
+|Grocery store sounds| https://freesound.org/s/475704/
+|Pens Celebration| https://freesound.org/s/71945/
 |Returning home (door)| Stock Audio
 |Sounds of Making Dinner| Record Myself
 |Sounds of Eating Dinner | Record Myself
