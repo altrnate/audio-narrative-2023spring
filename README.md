@@ -38,14 +38,11 @@ Moving forward, I beleive I need to figure out some of the pacing, as I feel as 
 |Entering Building| Stock Audio/Record Myself
 |Chatter of people prior to lecture| Record Myself
 |Deep Breath| Stock Audio
-|Movement of Papers, Pens, Typing| Stock Audio
 |Getting in car and driving| Record Myself
 |Grocery store sounds| https://freesound.org/s/475704/
 |Pens Celebration| https://freesound.org/s/71945/
 |Returning home (door)| Stock Audio
-|Sounds of Making Dinner| Record Myself
-|Sounds of Eating Dinner | Record Myself
-|Sounds of Doing Dishes| Record Myself
-|Short Video Audio| Stock Audio
-|Light Switch| Stock Audio
-|Getting in Bed| Stock Audio/Record Myself
+|Ambulance Siren| https://freesound.org/s/445344/
+|Ringing in Ears | https://freesound.org/s/218050/
+|EMT Radio| https://freesound.org/s/397086/
+|AED Prompt | https://freesound.org/s/621126/
