@@ -11,18 +11,26 @@
  doing it, only to fall back into a daze as the day passes by. I'd like to 
  capture that, hearing the surrounding noise fading in and out as our awareness 
  of who we are varies throughout the day.
-		
+
+# **Current Progress**		
+Currently, I have begun incorporating the stock sounds into my draft to get an idea of structure and pacing. 
+Within the aup3 file, I have several tracks each split up by the relative sound (ie footsteps all in one track).
+This can also be seen in the screenshot provided for quick reference. In addition to this, the mp3 file provides 
+a breif sample of the where the piece is currently at, which as you can see, I've reached the first jarring sound.
+Moving forward, I beleive I need to figure out some of the pacing, as I feel as if the piece moves too slow. 
 # **Assets Required**
-|Needs| Source|
+|*Needs*| *Source*|
 |:-----|:---------|
 |Alarm Sound|https://freesound.org/s/151242/|
 |Getting Out of Bed|https://freesound.org/s/172365/
+|Indoor Footsteps | https://freesound.org/s/511203/
 |Shower Curtain Opening| https://freesound.org/s/202013/
 |Shower Running| https://freesound.org/s/444169/
 |Sounds of Getting Dressed| https://freesound.org/s/328132/
-|Walking Downstairs| https://freesound.org/s/209474/
+|Walking Downstairs| https://freesound.org/s/397921/
 |Door Opening| https://freesound.org/s/344360/
-|Street Noises| https://freesound.org/s/395836/
+|Concrete Footsteps| https://freesound.org/s/244310/
+|Street Noises| https://freesound.org/s/117666/
 |People on the Steet| https://freesound.org/s/119895/
 |Music| https://freemusicarchive.org/music/Snake_Oil_Salesmen/Snake_Oil_Salesmen/Snake_Oil_Salesmen_-_Snake_Oil_Salesmen_-_02_Grains_of_Salt/
 |Car Horn| https://freesound.org/s/385283/
